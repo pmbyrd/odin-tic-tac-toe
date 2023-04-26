@@ -1,3 +1,4 @@
+require 'irb'
 p "Hello world"
 
 # *Classes are representations of real world objects.
